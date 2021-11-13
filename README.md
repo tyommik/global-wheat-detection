@@ -1,2 +1,2 @@
-# global-wheat-detection
+# Global Wheat Detection 
 Kaggle competition
