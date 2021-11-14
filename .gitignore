@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#converted images
+convertor/
+
+# wandb
+wandb
